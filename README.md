@@ -1,4 +1,5 @@
 # Smart Expense Categorizer
+<img width="1911" height="883" alt="image" src="https://github.com/user-attachments/assets/731ba46d-a2ee-4a15-948c-8c3cf6e45cbb" />
 
 An AI-powered tool that automatically categorizes business expenses for accounting and audit purposes using machine learning text classification.
 
